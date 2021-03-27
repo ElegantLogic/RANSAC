@@ -1,6 +1,6 @@
 # RANSAC
 
-Robuts line fitting using RANSAC algorithm.
+Robuts line fitting using RANSAC algorithm which is resistant to outliers.
 
 Example:
 
